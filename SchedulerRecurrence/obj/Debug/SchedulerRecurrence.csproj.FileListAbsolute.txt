@@ -1,0 +1,12 @@
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\SchedulerRecurrence.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\SchedulerRecurrence.pdb
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\Crestron.SimplSharpPro.Keypads.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\SimplSharpHelperInterface.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\SimplSharpPro.exe
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\SimplSharpTimerEventInterface.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\bin\Debug\Crestron.SimplSharpPro.DM.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\obj\Debug\ResolveAssemblyReference.cache
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\obj\Debug\SchedulerRecurrence.dll
+C:\zFolders\zCLIENTS\2170059\Mockups\SchedulerRecurrence\SchedulerRecurrence\SchedulerRecurrence\obj\Debug\SchedulerRecurrence.pdb
